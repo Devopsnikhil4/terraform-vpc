@@ -1,6 +1,6 @@
 # terraform-vpc
 
-This is the root module to created VPC on AWS Cloud and this root module looks for the terraform modules code that were made and available on the top of backend-module `https://github.com/b54-clouddevops/tf-module-vpc.git`
+This is the root module to created VPC on AWS Cloud and this root module looks for the terraform modules code that were made and available on the top of backend-module `https://github.com/Devopsnikhil4/terraform-vpc.git`
 
 
 ### Terrafile : 
