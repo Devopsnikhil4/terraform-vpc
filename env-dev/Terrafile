@@ -1,3 +1,3 @@
-alb:
+vpc:
     source:  "https://github.com/Devopsnikhil4/tf-module-vpc.git"
     version: "main"
