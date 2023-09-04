@@ -1,10 +1,10 @@
 AZ                          =  [ "us-east-1a" , "us-east-1b" ]
-DEFAULT_VPC_ID              = "vpc-0ff2cfd058c210431"
+DEFAULT_VPC_ID              = "vpc-0cc7a87764e209b1b"
 DEFAULT_VPC_CIDR            = "172.31.0.0/16"
-DEFAULT_VPC_RT              = "rtb-050b0868c0a757a2b"
+DEFAULT_VPC_RT              = "rtb-01556b605311fee53"
 
-PRIVATE_HOSTED_ZONE_NAME    = "roboshop.internal"
-PRIVATE_HOSTED_ZONE_ID      = "Z06982071MSU6YCTWUDBT"
+PRIVATE_HOSTED_ZONE_NAME    = "nikhil-project"
+PRIVATE_HOSTED_ZONE_ID      = "Z0983133IJ5FE7ZKLW33"
 
-PUBLIC_HOSTED_ZONE_NAME     = "b54-roboshop.online"
-PUBLIC_HOSTED_ZONE_ID       = "Z1044215IPPPTQXJMXTC"
+PUBLIC_HOSTED_ZONE_NAME     = "nikhil.external1"
+PUBLIC_HOSTED_ZONE_ID       = "Z05048761Z5DSI3008CTK"
